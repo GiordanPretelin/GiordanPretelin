@@ -1,5 +1,7 @@
 ### Hi!  👋
 
+I'm Giordan, a Data Scientist from Mexico 🇲🇽 currently based in London🇬🇧.
+
 <!--
 **GiordanPretelin/GiordanPretelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
