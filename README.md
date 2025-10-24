@@ -1,6 +1,7 @@
 ### Hi!  👋
 
-I'm Giordan, a software engineer and product manager from Mexico 🇲🇽 based in London🇬🇧.
+I'm Giordan, a software engineer and product manager for Analytics, ML and AI solutions.
+From Mexico 🇲🇽 based in London🇬🇧.
 
 <!--
 **GiordanPretelin/GiordanPretelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
